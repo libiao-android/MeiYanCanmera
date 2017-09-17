@@ -1,0 +1,29 @@
+<resources>
+
+    <dimen name="filter_item_height">75dp</dimen>
+    <dimen name="filter_item_thumbnail_width">55dp</dimen>
+    <dimen name="filter_item_thumbnail_height">55dp</dimen>
+    <dimen name="filter_item_seleted_iv_width">33dp</dimen>
+    <dimen name="filter_item_seleted_iv_height">33dp</dimen>
+    <dimen name="filter_item_tv_width">55dp</dimen>
+    <dimen name="filter_item_tv_height">20dp</dimen>
+    <dimen name="filter_item_tv_size">10sp</dimen>
+    <dimen name="filter_item_margin_top_buttom">5dp</dimen>
+    <dimen name="filter_item_margin_left_right">8dp</dimen>
+
+    <dimen name="fragment_home_padding">10dp</dimen>
+
+    <dimen name="fragment_special_list_height">85dp</dimen>
+    <dimen name="fragment_special_menu_button_width">50dp</dimen>
+    <dimen name="fragment_special_menu_button_height">50dp</dimen>
+    <dimen name="fragment_special_seekbar_height">27dp</dimen>
+    <dimen name="fragment_special_seekbar_margin">20dp</dimen>
+
+    <dimen name="file_choose_rl_height">50dp</dimen>
+    <dimen name="file_choose_tv_margin_left">5dp</dimen>
+
+    <dimen name="file_choose_item_iv_margin_left">10dp</dimen>
+    <dimen name="file_choose_item_iv_width">50dp</dimen>
+    <dimen name="file_choose_item_iv_height">50dp</dimen>
+    <dimen name="file_choose_item_tv_margin_left">10dp</dimen>
+</resources>

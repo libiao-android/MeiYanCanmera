@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MeiYanCamera</string>
+    <string name="fragment_select_photo">选图</string>
+
+    <string name="fragment_home_back">返回</string>
+    <string name="fragment_home_withdraw">撤销</string>
+    <string name="fragment_home_redo">重做</string>
+    <string name="fragment_home_save">保存</string>
+    <string name="fragment_home_special_beauty">美颜特效</string>
+    <string name="fragment_home_back_to_next">返回上一层</string>
+    <string name="fragment_home_choose_path">请选择保存图片路径</string>
+    <string name="fragment_home_cancel">取消</string>
+    <string name="fragment_home_ok">确定</string>
+    <string name="fragment_home_save_success">保存成功</string>
+    <string name="fragment_home_save_fail">保存失败</string>
+
+    <string name="beauty_mode_yuantu">原图</string>
+    <string name="beauty_mode_tianmeikeren">甜美可人</string>
+    <string name="beauty_mode_ziran">自然</string>
+    <string name="beauty_mode_huayan">花颜</string>
+    <string name="beauty_mode_fendai">粉黛</string>
+    <string name="beauty_mode_chuxia">初夏</string>
+    <string name="beauty_mode_landiao">蓝调</string>
+    <string name="beauty_mode_weimei">唯美</string>
+    <string name="beauty_mode_yingcai">萤彩</string>
+    <string name="beauty_mode_xinxue">新雪</string>
+    <string name="beauty_mode_luokeke">洛可可</string>
+    <string name="beauty_mode_feiyan">霏颜</string>
+    <string name="beauty_mode_miyou">蜜柚</string>
+    <string name="beauty_mode_tiandan">恬淡</string>
+    <string name="beauty_mode_bailu">白露</string>
+    <string name="beauty_mode_yueguang">月光</string>
+    <string name="beauty_mode_fennenxi">粉嫩系</string>
+    <string name="beauty_mode_rouguang">柔光</string>
+    <string name="beauty_mode_qingliang">清凉</string>
+    <string name="beauty_mode_rixi">日系</string>
+    <string name="beauty_mode_abaose">阿宝色</string>
+    <string name="beauty_mode_dianya">典雅</string>
+    <string name="beauty_mode_meihuo">魅惑</string>
+    <string name="beauty_mode_liuding">柳丁</string>
+    <string name="beauty_mode_mihuan">迷幻</string>
+    <string name="beauty_mode_heibai">黑白</string>
+
+</resources>
